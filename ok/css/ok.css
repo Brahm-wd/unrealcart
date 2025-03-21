@@ -1,0 +1,71 @@
+body{
+    background-color: whitesmoke;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.search{
+    padding-left: 450px;
+    margin-top: 50px;
+    margin-top: 25px;
+    -webkit-text-fill-color: black;
+}
+.kose{
+    -webkit-text-fill-color: black;
+    margin-top: 25px;
+    padding-left: 5px;
+}
+.boxed{
+    border: 1px blue;
+    background-color:blue;
+    padding-left: 50px;
+    -webkit-text-fill-color: whitesmoke;
+    display: flex;
+    
+}
+.box{
+    border: 1px wheat;
+    background-color: wheat;
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 800px;  
+   
+      
+}
+.box{
+    display: flex;
+    align-items: center;
+}
+.symbol {
+    font-size: 2 rem;
+    margin-left: 1700px;
+}
+.box{
+    display: flex;
+}
+.symbol{
+    font-size: 2 rem;
+    margin-left: 1705px;
+}
+.p, .h1,{
+    -webkit-text-fill-color: green;
+    
+}
+.second{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: -20px;
+}
+.third{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+
+.nom{
+    padding-left:300px;
+    
+}
+
+
+
+

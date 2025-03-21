@@ -1,0 +1,39 @@
+body{
+    color: blue;
+}
+label{
+    border: 1px solid blue;
+    border-radius: 1px;
+    background: black;
+    color: blue;
+    padding-left: 5px;
+    margin-left: 10px;    
+}
+div{
+    text-align: center;
+    color: white;
+}
+#ola{
+    height:400px;
+    width: 200pxpx;
+    padding-left: 40px;
+    padding-top: 50px;
+}
+#mi{
+    height: 400px;
+    width: 500px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+#le{
+    height: 500px;
+    width: 500px;
+    padding-left: 80px;
+    padding-top: 50px;
+}
+#kan{
+    height: 500px;
+    width: 500px;
+    padding-left: 80px;
+    padding-top: 50px;
+}
